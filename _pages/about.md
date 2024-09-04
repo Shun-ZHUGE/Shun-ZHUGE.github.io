@@ -18,13 +18,15 @@ My current research interests lie at the intersection of Joint Sensing and Commu
 
 News
 ------
-01/09/2024: Officially joined the [ES](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems)) group of [EEMCS](https://www.tudelft.nl/en/eemcs) at [TU Delft](https://www.tudelft.nl/en/) as a Ph.D. Candidate
-
-30/06/2024: Graduated from [NTU](https://www.ntu.edu.sg/); Last day in [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore
+*01/09/2024: Officially joined the [ES](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems)) group of [EEMCS](https://www.tudelft.nl/en/eemcs) at [TU Delft](https://www.tudelft.nl/en/) as a Ph.D. Candidate
+*30/06/2024: Graduated from [NTU](https://www.ntu.edu.sg/); Last day in [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore
 
 24/06/2024: Sever as a student volunteer in IEEE VTC2024-Spring, Singapore
+
 05/03/2024: My first conference paper "A Novel Geometric Solution for Moving Target Localization through Multistatic Sensing in the ISAC System" accepted by IEEE VTC2024-Spring
+
 08/05/2023: Officially started my student attachment at [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore
+
 15/07/2022: Graduated from [ANU](https://www.anu.edu.au/)
 
 
