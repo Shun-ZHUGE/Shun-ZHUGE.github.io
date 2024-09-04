@@ -33,6 +33,8 @@ News
 Contact
 ------
 Email: S.Zhuge@tudelft.nl
+
 Office: 2.W.860, West 2nd floor, [Building 28](https://map.tudelftcampus.nl/poi/wiskunde-informatica-ewi/)
+
 Address: Van Mourik Broekmanweg 6, 2628 XE Delft, The Netherlands
 
