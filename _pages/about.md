@@ -18,8 +18,9 @@ My current research interests lie at the intersection of Joint Sensing and Commu
 
 News
 ------
-*01/09/2024: Officially joined the [ES](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems)) group of [EEMCS](https://www.tudelft.nl/en/eemcs) at [TU Delft](https://www.tudelft.nl/en/) as a Ph.D. Candidate
-*30/06/2024: Graduated from [NTU](https://www.ntu.edu.sg/); Last day in [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore
+01/09/2024: Officially joined the [ES](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems)) group of [EEMCS](https://www.tudelft.nl/en/eemcs) at [TU Delft](https://www.tudelft.nl/en/) as a Ph.D. Candidate
+
+30/06/2024: Graduated from [NTU](https://www.ntu.edu.sg/); Last day in [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore
 
 24/06/2024: Sever as a student volunteer in IEEE VTC2024-Spring, Singapore
 
