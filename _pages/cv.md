@@ -51,4 +51,4 @@ Membership
 
 
 
-For details, please see my [CV](../ShunZHUGE.github.io/assets/CV_Shun_Zhuge_2024.pdf).
+For details, please see my [CV](../assets/CV_Shun_Zhuge_2024.pdf).
