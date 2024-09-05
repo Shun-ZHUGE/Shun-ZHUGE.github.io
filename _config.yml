@@ -12,9 +12,9 @@ title                    : "SHUN ZHUGE / Personal Website"
 title_separator          : "-"
 name                     : &name "SHUN ZHUGE"
 description              : &description "personal description"
-url                      : https://sugar-shun.github.io/ShunZHUGE.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sugar-shun.github.io/personalWeb # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sugar-shun/ShunZHUGE.github.io"
+repository               : "sugar-shun/personalWeb"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "shun-zhuge-250719315"
+  linkedin         : "shun-zhuge"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
