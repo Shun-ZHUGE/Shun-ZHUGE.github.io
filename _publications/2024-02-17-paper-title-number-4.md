@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 #permalink: /publication/2024-02-17-paper-title-number-4
 #excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2024-06-25
 venue: 'IEEE VTC2024-Spring'
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'S. Zhuge, Y. Ma, Z. Lin, and Y. Zeng, &quot;A Novel Geometric Solution for Moving Target Localization through Multistatic Sensing in the ISAC System,&quot; <i>IEEE VTC-Spring</i>, Singapore, June, 2024'
