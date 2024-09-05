@@ -51,4 +51,4 @@ Membership
 
 
 
-For details, please see my [CV](https://github.com/Sugar-Shun/ShunZHUGE.github.io/blob/master/assets/CV_Shun_Zhuge_2024.pdf).
+For details, please see my [CV](https://github.com/Sugar-Shun/personalWeb/blob/master/assets/CV_Shun_Zhuge_2024.pdf).
