@@ -31,7 +31,9 @@ Skills
 
 Publications
 ======
-*S. Zhuge, Y. Ma, Z. Lin, and Y. Zeng, "A Novel Geometric Solution for Moving Target Localization through Multistatic Sensing in the ISAC System," IEEE VTC-Spring, Singapore, June 2024.
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
     
 Service
 ======
