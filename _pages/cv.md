@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Delft University of Technology, 2028 (expected)
+* M.S. in Communications Engineering, Nanyang Technological University, 2024
+* B.S. in Electronic and Communication Systems, Australian National University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep. 2024: Ph.D. Candidate
+  * Delft University of Technology
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2022: Student Attachment
+  * Institute for Infocomm Research, A*STAR
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: MATLAB, Python, Simulink, Verilog, C
+* Software: Github, Linux, Visual Studio Code, Windows, SolidWorks, Figma, ANASY, LTspice, Vivado
+* Language: Mandarin, English
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+    
+Service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Reviewer of Conference
+  * VTC2024-Fall
+* Student Volunteer
+  * VTC2024-Spring
+
+Membership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* IEEE
+  * Student member
+* IEEE VTS
+  * Member
+
