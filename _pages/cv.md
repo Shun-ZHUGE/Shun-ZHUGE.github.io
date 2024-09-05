@@ -49,3 +49,6 @@ Membership
 * IEEE VTS
   * Member
 
+
+
+For details, please see my [CV](../assets/CV_Shun_Zhuge_2024.pdf).
