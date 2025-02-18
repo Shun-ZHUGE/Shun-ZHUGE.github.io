@@ -13,17 +13,19 @@ Before relocating to the Netherlands, I completed my Master of Science in Commun
 
 Research Interests
 ------
-My current research interests lie at the intersection of Joint Sensing and Communication (JCAS) and Tiny Machine Learning (Tiny-ML). I am passionate about contributing to the advancement of next-generation wireless communication systems.
+My current research interests lie at the intersection of Joint Sensing and Communication (JCAS) and Tiny Machine Learning (TinyML). I am passionate about contributing to the advancement of next-generation wireless communication systems.
 
 News
 ------
+[22/01/2025] My co-authored conference paper, "Kalman Filtering based Target Tracking for Multistatic Sensing in ISAC Systems", was accepted by IEEE ISCAS.
+
 [01/09/2024] Officially joined the [ES](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) group of [EEMCS](https://www.tudelft.nl/en/eemcs) at [TU Delft](https://www.tudelft.nl/en/) as a Ph.D. Candidate.
 
 [30/06/2024] Graduated from [NTU](https://www.ntu.edu.sg/); last day at [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore.
 
 [24/06/2024] Severed as a student volunteer at IEEE VTC2024-Spring, Singapore.
 
-[05/03/2024] My first conference paper, "A Novel Geometric Solution for Moving Target Localization through Multistatic Sensing in the ISAC System," was accepted by IEEE VTC2024-Spring.
+[05/03/2024] My first conference paper, "A Novel Geometric Solution for Moving Target Localization through Multistatic Sensing in the ISAC System", was accepted by IEEE VTC2024-Spring.
 
 [08/05/2023] Officially started my student attachment at [I2R](https://www.a-star.edu.sg/i2r), [A*STAR](https://www.a-star.edu.sg/), Singapore.
 
@@ -34,7 +36,7 @@ Contact
 ------
 Email: S.Zhuge@tudelft.nl
 
-Office: 2.W.860, West 2nd floor, [Building 28](https://map.tudelftcampus.nl/poi/wiskunde-informatica-ewi/)
+Office: 2.W.540, West 2nd floor, [Building 28](https://map.tudelftcampus.nl/poi/wiskunde-informatica-ewi/)
 
 Address: Van Mourik Broekmanweg 6, 2628 XE Delft, The Netherlands
 
