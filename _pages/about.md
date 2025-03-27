@@ -17,7 +17,7 @@ My current research interests lie at the intersection of Joint Sensing and Commu
 
 News
 ------
-[22/01/2025] My co-authored conference paper, "Kalman Filtering based Target Tracking for Multistatic Sensing in ISAC Systems", was accepted by IEEE ISCAS.
+[22/01/2025] My co-authored conference paper, "Kalman Filtering based Target Tracking for Multistatic Sensing in ISAC Systems", accepted by IEEE ISCAS.
 
 [01/09/2024] Officially joined the [ES](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/embedded-systems) group of [EEMCS](https://www.tudelft.nl/en/eemcs) at [TU Delft](https://www.tudelft.nl/en/) as a Ph.D. Candidate.
 
